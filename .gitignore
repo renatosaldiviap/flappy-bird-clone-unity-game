@@ -28,3 +28,9 @@ UserSettings/
 *.apk
 *.aab
 *.unitypackage
+
+# Gradle / Android build cache (Unity)
+.utmp/
+
+# Visual Studio config
+.vsconfig
